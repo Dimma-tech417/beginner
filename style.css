@@ -1,0 +1,31 @@
+/* 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: blanchedalmond;
+    /* position: relative; */
+}
+
+h1 {
+    padding: 30px;
+    color: bisque;
+    background-color: rgb(90, 7, 7);
+    /* width: fit-content;
+    margin: 0 auto; */
+    /* text-align: center; */
+    
+    
+     
+}
